@@ -25,18 +25,12 @@ It combines AI and modern design to help students and professionals learn faster
 
 ## 🛠️ Tech Stack
 
-- **iOS**: Swift, SwiftUI, Combine  
+- **iOS**: Swift, SwiftUI
 - **Auth**: [Clerk](https://clerk.com/) for user authentication  
 - **Payments**: RevenueCat + StoreKit 2 for subscriptions & IAP  
 - **Backend**: REST API (Node.js / Python with AI endpoints)  
 - **AI**: OpenAI integration for summarization, flashcards, quizzes  
 - **UI Enhancements**: Custom popup views, gestures, theming, React Flow for mind maps  
-
----
-
-## 📸 Screenshots
-
-*(Add screenshots here once available — profile page, subscription popup, mindmap, etc.)*
 
 ---
 

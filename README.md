@@ -52,5 +52,5 @@ It combines AI and modern design to help students and professionals learn faster
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/coursiva.git
+   git clone https://github.com/Jonny440/owlpeer/edit/main/README.md
    cd coursiva
